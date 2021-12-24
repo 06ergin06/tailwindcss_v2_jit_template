@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lodash": "^4.17.21"
-  }
+  "license": "ISC"
 }
